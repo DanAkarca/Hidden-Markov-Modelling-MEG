@@ -1,4 +1,4 @@
-# Hidden Markov Modelling of MEG data in rest and task
+# Hidden Markov Modelling of MEG data at Rest and Task
 This code was used for my MPhil in Neuroscience @ MRC CBU, for the thesis titled "Characterising the neurophysiological signature of a mutation in ZDHHC9". 
 
 This ultimately became for the basis for the published paper:
